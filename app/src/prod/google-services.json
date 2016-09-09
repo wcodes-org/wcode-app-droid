@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "626577546061",
+    "firebase_url": "https://wcode-0.firebaseio.com",
+    "project_id": "wcode-0",
+    "storage_bucket": "wcode-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626577546061:android:b4e639fd07743888",
+        "android_client_info": {
+          "package_name": "org.wcodes.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626577546061-682vgjsjmrter1aauo8ttbu4g68t0jpt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "626577546061-gv229cof5tejf9chtlvqsfb7q03vm4ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArBZb7gko1jGlm5Qyll6_TakaNGzYe3bs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626577546061:android:990bf7adfd7c62ce",
+        "android_client_info": {
+          "package_name": "org.wcodes.android.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626577546061-814eu6b4u4mcf35bjd8csaedve6jcct3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.wcodes.android.dev",
+            "certificate_hash": "C9C6DA7AB57C737CEFC13428C4FC15FBD342A1A7"
+          }
+        },
+        {
+          "client_id": "626577546061-682vgjsjmrter1aauo8ttbu4g68t0jpt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "626577546061-gv229cof5tejf9chtlvqsfb7q03vm4ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArBZb7gko1jGlm5Qyll6_TakaNGzYe3bs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626577546061-682vgjsjmrter1aauo8ttbu4g68t0jpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626577546061:android:64f46e97a67e091d",
+        "android_client_info": {
+          "package_name": "org.wcodes.android.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626577546061-8dje8f8ms4qdnfelie9j8q1erqrabfdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.wcodes.android.beta",
+            "certificate_hash": "C9C6DA7AB57C737CEFC13428C4FC15FBD342A1A7"
+          }
+        },
+        {
+          "client_id": "626577546061-682vgjsjmrter1aauo8ttbu4g68t0jpt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "626577546061-gv229cof5tejf9chtlvqsfb7q03vm4ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArBZb7gko1jGlm5Qyll6_TakaNGzYe3bs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626577546061-682vgjsjmrter1aauo8ttbu4g68t0jpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

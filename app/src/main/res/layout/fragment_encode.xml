@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="org.wcodes.android.EncodeFragment"
+    android:orientation="vertical">
+
+    <!--<TextView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="@string/hello_blank_fragment" />-->
+
+    <GridView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numColumns="2"
+        android:horizontalSpacing="10dp"
+        android:verticalSpacing="10dp"
+        android:id="@+id/gridLayout"/>
+
+    <EditText
+        android:layout_width="164dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextA"
+        android:layout_gravity="center_horizontal|top"
+        android:hint="@string/inputHint" />
+
+    <EditText
+        android:layout_width="164dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextB"
+        android:layout_gravity="center_horizontal"
+        android:inputType="none"
+        android:cursorVisible="false" />
+
+</LinearLayout>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        revision="24.0.0"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-c46c5adb9408ae38cd513775474e143bd523f2c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        revision="24.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-3c4eacc152613289dfc7841cfcf4fbfa29299417.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-2197eba92c2181c496f74ac389a185ffd4c6ba59.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.2.1\jars\classes.jar"
+        revision="24.0.0"
+        sha1="8710c98a0de03648fd694629c25d6e47e15b39cd">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-bf931a871413beb96e6f1b02ae458b58a9fbb02b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        revision="24.0.0"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-1a4ac5cbc36f74b305fd7416ad863c2ad0bb14bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.1\jars\classes.jar"
+        revision="24.0.0"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-06f9b8b83c2c70345cc7b9912fac9fca749b7e0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\lib\build\libs\lib.jar"
+        revision="24.0.0"
+        sha1="76af9159814dbfd198e2b65e04297f20f14a0cde">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\lib-b19344dcc2be68326853e6171122fbe1322d96df.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        revision="24.0.0"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-5ac932325ae3f44e74e1ef2b80e59eabcb7d1cec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        revision="24.0.0"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-a5a8c0cde8717836209d9cb2dfa2511e03be3372.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\platforms\android-24\android.jar"
+        revision="24.0.0"
+        sha1="1311cbfaf9f46b5700b213534bccdc789794b057">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\runtime\android-4b795410921da4ba9bbb286d4175790c953c1780.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\internal_impl-24.2.0-ecd391bc38c24bfd4cff9cb1b8136e8313e9577f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-1e6ff400571ca29a4ca43c3309b5d15e57090c9d.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\support-annotations-24.2.0-f4228c1b901908a346c9ee83e23954a04b92a0ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        revision="24.0.0"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-dd673127a595459897b14bc2f1ab053573f5fa9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.1\jars\classes.jar"
+        revision="24.0.0"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-be058066ea1d22beda5f1b13cda1b4f85baf3429.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-c7c264a928dd9fefe52e04b5f23a21b4eb7884a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-a1a4467aa3941a4d350a6c158f083a3b45964069.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.3.6\jars\classes.jar"
+        revision="24.0.0"
+        sha1="9af3b9b8114e685291aa00e6572b0a9131244956">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-98eb3e84bf0971b35de57b7f10779bab07d271cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.10\jars\classes.jar"
+        revision="24.0.0"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-cc8a0dcb532023bd1941e7cddfdca7d73d5127be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\internal_impl-24.2.0-4ba53da035acc9dadaad8e1b74c689803bb000d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-fafb9d2815c90030991696f2c44682d37da4ed54.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.5.5\jars\classes.jar"
+        revision="24.0.0"
+        sha1="611605b6b640c1558f9bdea41de8ff837ab68ca8">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-fc3ae6425d207e075a2782496ed2ff479f5a2a80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.1\jars\classes.jar"
+        revision="24.0.0"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-dad5a44306a7cc141f77dfd61a685e038f02367c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-73dc3f2918e737d2184843c686957f0db2f4f2d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\org.apmem.tools\layouts\1.10\jars\classes.jar"
+        revision="24.0.0"
+        sha1="7a9f96bfbb71dc928a5d01440d879ef17f3f2349">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-1753946ea0323016c6ec17bdff01ce0b7a682993.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\internal_impl-24.2.0-65bf4fec4ca0ded891e0b93130af2cd4fa91ade5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.1.4\jars\classes.jar"
+        revision="24.0.0"
+        sha1="ad5bb101ced4d3939225c9b57e5a3d81547c1fbb">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-4bfea0458514decdc18429ada25ed45686d4a576.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        revision="24.0.0"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-1b46e59868a004f00e60a7c67192a93ca8a0817d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-059486a228e5efe5dcebeedfdeb07f15fcbd988f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        revision="24.0.0"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-6625a588fca73deca01df80de01a4aa3aadd71dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-87c8b868dcc32e9880e34f3d6e3711c8193c128f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.8\jars\classes.jar"
+        revision="24.0.0"
+        sha1="c9ef45dcbd082cd63aac09a5e2cd443adb5df837">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-1679203551a7ff1b0ed3755f8a2d11846d88e244.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\internal_impl-24.2.0-265c73168b21d45ca5e0c87cf44069207b5504a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        revision="24.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-c251a9318e4e7bf70023c59ccd363333029c0b76.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        revision="24.0.0"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-6cd64e4443a5f447541623b2f88a796151a70e69.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\classes-810ba77d690c4a00ab7aeaa1c518647761f0c51e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Ujjwal\Project\WCode\Android\project\app\build\intermediates\jill\beta\release\packaged\internal_impl-24.2.0-74ec61d0f6bff096cf77c4fc4fa53dee31ca873a.jar" />
+    </item>
+
+</items>

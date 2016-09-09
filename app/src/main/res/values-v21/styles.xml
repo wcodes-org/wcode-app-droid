@@ -1,0 +1,43 @@
+<resources>
+
+    <!--
+        Base application theme for API 14+. This theme completely replaces
+        AppBaseTheme from BOTH res/values/styles.xml and
+        res/values-v11/styles.xml on API 14+ devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Material">
+        <!-- API 14 theme customizations can go here. -->
+        <item name="android:logo">@android:color/transparent</item>
+        <item name="typeButtonStyle">@style/TypeButton</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppTheme.Base"/>
+    <!-- inherit from the material theme -->
+    <style name="AppTheme.Base" parent="android:Theme.Material">
+        <!-- colorPrimary is used for the default action bar background -->
+        <item name="android:colorPrimary">#3F51B5</item>
+
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="android:colorPrimaryDark">#303F9F</item>
+
+        <!-- colorAccent is used as the default value for colorControlActivated
+             which is used to tint widgets -->
+        <item name="android:colorAccent">#FF4081</item>
+    </style>
+
+    <style name="TypeButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">right|top</item>
+        <item name="android:background">@drawable/type_button</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+    </style>
+
+    <style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">#FF4081</item>
+    </style>
+
+</resources>

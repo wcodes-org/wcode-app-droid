@@ -1,0 +1,10 @@
+apply plugin: 'java'
+
+dependencies {
+    //compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'org.testng:testng:6.9.6'
+    //testCompile 'junit:junit:4.12'
+}
+
+targetCompatibility = JavaVersion.VERSION_1_8
+sourceCompatibility = JavaVersion.VERSION_1_8

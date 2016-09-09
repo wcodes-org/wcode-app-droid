@@ -1,0 +1,2 @@
+-assumenosideeffects com.crashlytics.*
+-assumenosideeffects io.fabric.*

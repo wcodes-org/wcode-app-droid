@@ -1,0 +1,7 @@
+<resources>
+
+    <declare-styleable name="ButtonBarContainerTheme">
+        <attr name="typeButtonStyle" format="reference" />
+    </declare-styleable>
+
+</resources>

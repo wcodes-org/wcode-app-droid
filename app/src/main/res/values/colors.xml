@@ -1,0 +1,10 @@
+<resources>
+
+    <color name="black_overlay">#000000</color>
+    <color name="dark">#bbbbbb</color>
+    <color name="grey">#dddddd</color>
+    <color name="theme_primary">#69b7cf</color>
+    <color name="theme_secondary">#dddddd</color>
+    <color name="splash_background">#ffffff</color>
+
+</resources>

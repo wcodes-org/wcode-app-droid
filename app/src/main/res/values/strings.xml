@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WCode</string>
+    <string name="enter_button">enter</string>
+    <string name="convert_button">Convert</string>
+    <string name="AutoButtonLabel">Auto</string>
+    <string name="TextButtonLabel">Text</string>
+    <string name="UrlButtonLabel">URL</string>
+    <string name="DateButtonLabel">Date</string>
+    <string name="TimeButtonLabel">Time</string>
+    <string name="PhoneNumberButtonLabel">Phone number</string>
+    <string name="EncodeButtonLabel">Encode</string>
+    <string name="DecodeButtonLabel">Decode</string>
+    <string name="EmailIdButtonLabel">Email id</string>
+    <string name="LocationButtonLabel">Location</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="action_feedback">Feedback</string>
+    <string name="action_intro">Intro</string>
+
+    <string name="inputHint">input</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="launched">launched</string>
+
+    <string name="about_fragment_title">Created by</string>
+    <string name="creator_name">Ujjwal Singh</string>
+
+    <string name="stored_message">Saved wcodes appear here</string>
+
+</resources>
