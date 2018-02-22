@@ -15,7 +15,7 @@ public class TraceTest {
     org.wcodes.core.Dictionary dictionary;
 
     public TraceTest() {
-        dictionary = new org.wcodes.core.Dictionary("WordList.txt");
+        dictionary = new org.wcodes.core.Dictionary("wordlist.txt");
     }
 
     static String in(org.wcodes.core.Dictionary dictionary, byte[] x) {
@@ -49,8 +49,8 @@ public class TraceTest {
 
         alphaTree.traceC('a');
         alphaTree.traceC('l');
-        char[] s = new char[3];
-        alphaTree.getNextRemn(s);
+        char[] s;
+        s = alphaTree.getNextRemaining();
 
         assertEquals(new String(s), "arm", "Failure: "+"Traced not: "+"al-arm");
     System.out.println(s);

@@ -48,27 +48,32 @@ public class AlphaTree {
     }
 
     public boolean traceC(char c) {
-        if(traced[c-ALPHA_OFFSET].arBranch != null || traced[c-ALPHA_OFFSET].bValid) {
-            bValid = traced[c-ALPHA_OFFSET].bValid;
-            traced = traced[c-ALPHA_OFFSET].arBranch;
-            trace.reset(traced);
-            return true;
-        }
-        else
+        if(traced == null)
             return false;
+        else {
+            if (traced[c - ALPHA_OFFSET].arBranch != null || traced[c - ALPHA_OFFSET].bValid) {
+                bValid = traced[c - ALPHA_OFFSET].bValid;
+                traced = traced[c - ALPHA_OFFSET].arBranch;
+                trace.reset(traced);
+                return true;
+            } else
+                return false;
+        }
     }
 
-    public boolean isValid() {
-        return bValid;//traced
+    public boolean isValid() {  // traced so far
+        return bValid;
     }
 
-    public boolean getNextRemn(char[] szRemn) {
+    public char[] getNextRemaining() {
+        if(traced == trunk)
+            return null;
         try {
             while(trace.getNext());
         } catch (CustomException e) {
             e.printStackTrace();
         }
-        return trace.getTraced(szRemn);
+        return trace.getTraced();
     }
 
 }

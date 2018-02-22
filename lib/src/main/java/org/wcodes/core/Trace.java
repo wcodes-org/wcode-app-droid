@@ -5,6 +5,7 @@ package org.wcodes.core;
  */
 public class Trace {
 
+    //static final char NULL_CHAR = '\0';
     static char alphaCode(int index) {
         return (char)(index+ALPHA_OFFSET);
     }
@@ -12,7 +13,7 @@ public class Trace {
     class TraceStackStruct {
         Branch[] arBranch; //Branch
         int index;
-    };
+    }
 
     TraceStackStruct[] traceStack;
     int lTraceStack;
@@ -37,7 +38,7 @@ public class Trace {
             //sTraced[i] = new char();
     }
 
-    boolean push(Branch[] arBranch, int index) {
+    boolean push(Branch[] arBranch) {//, int index) {
         if(lTraceStack == MAX_TRACE_DEPTH)
             return false;
         else {
@@ -76,17 +77,17 @@ public class Trace {
             if(traceStack[top].index < N_ALPHABETS-1)
                 (traceStack[top].index)++;
             else
-            if(!pop()) {
-                bValid = false;
-                return false;
-            }
+                if(!pop()) {
+                    bValid = false;
+                    return false;
+                }
 
             bValid = (xBranch[index]).bValid;
             bBranch = (xBranch[index]).arBranch != null;
             if(bValid || bBranch) {
                 sTraced[lTraceStack-1] = alphaCode(index);
                 if (bBranch)
-                    if(!push((xBranch[index]).arBranch, 0))	//if(lTraceStack)
+                    if(!push((xBranch[index]).arBranch))//, 0))	//if(lTraceStack)
                         throw new org.wcodes.core.CustomException("ERROR_PUSH_DEPTH");//exit(ERROR_PUSH_DEPTH);
                 if(bValid)
                     return false;
@@ -97,22 +98,25 @@ public class Trace {
         return false;
     }
 
-    public boolean getTraced(char[] szTraced) {
+    public char[] getTraced() {
         if(bValid) {
             int l;
+            char[] szTraced;
 
             if(bBranch)
                 l = lTraceStack - 1;
             else
                 l = lTraceStack;
 
+            szTraced = new char[l];
             for(int i = 0; i < l; i++)
                 szTraced[i] = sTraced[i];
-            //szTraced[l] = null;
-            return true;
+            //szTraced[l] = NULL_CHAR;
+
+            return szTraced;
         }
         else
-            return false;
+            return null;
     }
 
 }

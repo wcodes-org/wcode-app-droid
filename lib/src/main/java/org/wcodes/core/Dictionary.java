@@ -16,6 +16,8 @@ import java.util.ArrayList;
 public class Dictionary {
 
     private ArrayList<String> tokens;
+    int max_word_length;
+
 //    private final String UTF8_BOM = "\uFEFF";
 
     public void Create() {
@@ -27,6 +29,7 @@ public class Dictionary {
 //    }
 
     public Dictionary(String configFile){
+        max_word_length = 0;
         Create();
         load(configFile);
     }
@@ -46,6 +49,8 @@ public class Dictionary {
 //            check_UTF8_BOM(bufferedReader);
             String token;
             while((token = bufferedReader.readLine()) != null){
+                if(token.length() > max_word_length)
+                    max_word_length = token.length();
                 this.tokens.add(token);
             }
         } catch (IOException e) {
@@ -101,6 +106,10 @@ public class Dictionary {
 
     int index(String token) {
         return tokens.indexOf(token);
+    }
+
+    public int maxWordLength() {
+        return max_word_length;
     }
 
 }
