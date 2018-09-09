@@ -1,9 +1,9 @@
 package org.wcodes.core;
 
+import org.testng.Assert;
+
 import java.io.UnsupportedEncodingException;
 import java.math.BigInteger;
-
-import static org.testng.Assert.*;
 
 /**
  * Created by Ujjwal on 7/13/2016.
@@ -38,7 +38,7 @@ public class TraceTest {
 
     @org.testng.annotations.Test
     public void dictionaryTest() {
-        assertEquals(dictionary.nToken(), 1024, "Failure: "+"not 1024");
+        Assert.assertEquals(dictionary.nToken(), 1024, "Failure: "+"not 1024");
     System.out.println(dictionary.token(0));
     }
 
@@ -52,7 +52,7 @@ public class TraceTest {
         char[] s;
         s = alphaTree.getNextRemaining();
 
-        assertEquals(new String(s), "arm", "Failure: "+"Traced not: "+"al-arm");
+        Assert.assertEquals(new String(s), "arm", "Failure: "+"Traced not: "+"al-arm");
     System.out.println(s);
     }
 
@@ -76,7 +76,7 @@ public class TraceTest {
             }
         System.out.println(output);
         }
-        assertEquals(input, output, "Failure: ");
+        Assert.assertEquals(input, output, "Failure: ");
     }
 
     @org.testng.annotations.Test
@@ -99,7 +99,7 @@ public class TraceTest {
 
         System.out.println(output);
         }
-        assertEquals(input, output, "Failure: ");
+        Assert.assertEquals(input, output, "Failure: ");
     }
 
 }
